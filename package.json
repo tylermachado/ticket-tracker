@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+	    "request"    : "latest",
+	    "cheerio"    : "latest",
+	    "fs"         : "latest",
+	    "moment"     : "latest" 
+    }
+}
